@@ -4,7 +4,7 @@
 # ecommerce
 
 Proyek ini menyediakan struktur proyek pemula minimal untuk aplikasi e-commerce.
-Pada aplikasi akan muncul list products, kemudian user dapat menambah beberapa product ke dalam keranjang, setelah itu product tersebut dijumlahkan hasil dari keseluruhan products yang telah dimasukkan ke dalam keranjang.
+Pada aplikasi akan muncul list produk, kemudian user dapat menambah beberapa produk ke dalam keranjang, setelah itu produk tersebut dijumlahkan hasil dari keseluruhan produk yang telah dimasukkan ke dalam keranjang.
 
 - Layar: daftar produk, detail, dan ringkasan keranjang belanja.
 - Manajemen status sederhana dengan React Context API.
@@ -12,16 +12,15 @@ Pada aplikasi akan muncul list products, kemudian user dapat menambah beberapa p
 - Layanan API tiruan untuk data produk.
 - Dibangun dengan [Expo](https://expo.dev).
 
-
 ## Sample Screens
 
-### Products List
+### List Produk
 ![Products List](./docs/productsList.png)
 
-### Product Details
+### Detail Produk
 ![Product Details](./docs/productDetails.png)
 
-### Shopping Cart Summary
+### Jumlah Hasil Belanjaan
 ![Shopping Cart Summary](./docs/cart.png)
 
 ## Credits
